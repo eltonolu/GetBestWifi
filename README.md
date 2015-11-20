@@ -1,2 +1,2 @@
 # GetBestWifi
-Windows Script that from a list of wifi and connects to the strongest signal using NETSH.
+Python Script for Windows that, from a list of wifi SSIDs, connects to the strongest signal using NETSH.
